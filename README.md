@@ -9,4 +9,7 @@
 Para a construção do projeto, serão utilizados os seguintes materiais:
 
 -BitDogLab.
+
 -Fonte de alimentação (Cabo USB).
+
+

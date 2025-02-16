@@ -1,10 +1,10 @@
-#Projeto Prático usando a BitDogLab
+# Projeto Prático usando a BitDogLab
 
-#Introdução
+# Introdução
 
 -Este projeto tem como objetivo facilitar o ensino das vogais em Libras, utilizando a BitDogLab para desenvolver uma solução interativa e acessível.
 
-#Materiais Necessários
+# Materiais Necessários
 
 Para a construção do projeto, serão utilizados os seguintes materiais:
 
